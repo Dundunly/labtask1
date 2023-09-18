@@ -1,0 +1,19 @@
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\bin\Debug\carsparepart Labtask2.exe.config
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\bin\Debug\carsparepart Labtask2.exe
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\bin\Debug\carsparepart Labtask2.pdb
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\bin\Debug\carsparepart Labtask2.xml
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart Labtask2.vbprojResolveAssemblyReference.cache
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form1.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Resources.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart Labtask2.vbproj.GenerateResource.Cache
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart Labtask2.exe
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart Labtask2.xml
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart Labtask2.pdb
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.AboutBox1.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.SplashScreen1.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form2.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form3.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form4.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form5.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form6.resources
+c:\users\888so\onedrive\documents\visual studio 2015\Labtask2LILY\carsparepart Labtask2\carsparepart Labtask2\obj\Debug\carsparepart_Labtask2.Form7.resources
